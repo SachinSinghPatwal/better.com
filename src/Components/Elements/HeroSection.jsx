@@ -6,7 +6,7 @@ import {
   faStarHalfStroke,
 } from "@fortawesome/free-solid-svg-icons";
 import heroImage from "../../../public/heroImage.webp";
-import google from "../../../public/google.svg";
+import google from "../../../public/Google.svg";
 function HeroSection() {
   return (
     <main className="pt-[7.6rem] relative lg:h-[130vh]">
